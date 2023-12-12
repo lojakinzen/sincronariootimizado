@@ -30,7 +30,7 @@ select{
 	color: #272626;
 	border: none;
 	text-align: left;
-	font-size: 14.5px;
+	font-size: 13.5px;
 	font-weight: 610;
 	cursor: ;
 	font-family: museo_sans, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -65,7 +65,7 @@ select{
 
 #lua {
   margin-top: 0px;
-  width: 190px;
+  width: 172px;
   border-top-right-radius: 6px;
   border-bottom-right-radius: 6px;
   border-left: 1px solid white;
@@ -73,7 +73,7 @@ select{
 
 #dia {
   margin-top: 0px;
-  width: 128px;
+  width: 119px;
   border-top-left-radius: 6px;
   border-bottom-left-radius: 6px;
 }
